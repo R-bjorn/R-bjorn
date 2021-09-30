@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @R-bjorn
+- 👀 I’m interested in Artificial Gaming Desing and Development
+- 🌱 I’m currently majoring in Computer Science and Specialization in Game Developement
+- 💞️ I’m looking to collaborate on Software Group Project (Python, Java, C++) 
+- 📫 My email is : ravidtrivedi111@gmail.com
