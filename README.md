@@ -2,6 +2,7 @@
 - 👀 Getting ready for Internship
 - :video_game: Fun Fact : Games provide a 23% gain over traditional learning
 - 📫 How to reach me : ravidtrivedi111@gmail.com
+- :globe_with_meridians: Checkout my Portfolio : https://r-bjorn.github.io/RBjorn-Portfolio/
 
 ![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=r-bjorn&count_private=true&show_icons=true&theme=tokyonight)
 ---------------------------
