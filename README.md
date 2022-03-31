@@ -10,7 +10,11 @@
 - 📫 How to reach me : ravidtrivedi111@gmail.com
 - :globe_with_meridians: Checkout my Portfolio : https://r-bjorn.github.io/RBjorn-Portfolio/
 
-<img align='left' src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" width="195"> ![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=r-bjorn&count_private=true&show_icons=true&theme=tokyonight)
+
+
+
+<!-- <img align='left' src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" width="195">  -->
+![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=r-bjorn&count_private=true&show_icons=true&theme=tokyonight)
 <!-- --------------------------- -->
 ## Technical Skills 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-bjorn&hide=shaderlab,hlsl,perl&layout=compact)](https://github.com/r-bjorn/github-readme-stats)
