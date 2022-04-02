@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## About me
+### About me
 
 - 🤵 I’m **_R-bjorn_**
 - 👀 Exploring new technologies, Developing software solutions, Creating varios games & creative web designs and quick hacks.
