@@ -15,10 +15,13 @@
 
 
 <!-- <img align='left' src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" width="195">  -->
-![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=r-bjorn&count_private=true&show_icons=true&theme=tokyonight)
+<!-- ![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=r-bjorn&count_private=true&show_icons=true&theme=tokyonight) -->
+![RBjorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-bjorn&show_icons=true&count_private=true&theme=highcontrast&title_color=B11F1F&bg_color=-45,000000,c0c0c0&hide_border=true&border_radius=20)
+<!--  radical, , gruvbox -->
+
 <!-- --------------------------- -->
 ## Technical Skills 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-bjorn&layout=compact)](https://github.com/r-bjorn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-bjorn&layout=compact&langs_count=10)](https://github.com/r-bjorn/github-readme-stats)
 ---------------------------
 [![trophy](https://github-profile-trophy.vercel.app/?username=r-bjorn&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/r-bjorn/github-profile-trophy)
 
