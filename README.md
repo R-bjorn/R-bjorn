@@ -15,21 +15,11 @@
 <!-- --------------------------- -->
 ## Technical Skills 
 
-<details>
-  <summary> :zap: Github Stats</summary>
-  
-  <img alt="R-Bjorn's Github Stats" src="https://github-readme-stats-r-bjorn.vercel.app/api?username=r-bjorn&show_icons=true&hide_border=true" />
-
-</details>
+<img alt="R-Bjorn's Github Stats" src="https://github-readme-stats-r-bjorn.vercel.app/api?username=r-bjorn&show_icons=true&hide_border=true" />
 
 ---------------------------
 
-<details>
-  <summary> :mortar_board: Top Languages</summary>
-  
-  <img alt="R-Bjorn's Top Languages Used" src="https://github-readme-stats-r-bjorn.vercel.app/api/top-langs/?username=r-bjorn&layout=compact&langs_count=10" />
-
-</details>
+<img alt="R-Bjorn's Top Languages Used" src="https://github-readme-stats-r-bjorn.vercel.app/api/top-langs/?username=r-bjorn&layout=compact&langs_count=10" />
 
 ---------------------------
 
