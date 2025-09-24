@@ -18,6 +18,8 @@
 - 🧙‍♂️ [**Wizard's Gambit**](https://store.steampowered.com/app/3755740/Wizards_Gambit/) – Multiplayer fantasy board game using Unity Netcode & Cloud Save.  
 - 🎰 [**Mystique Casino**](https://youtu.be/lkhplv9ozII?si=OPOjrcaElRWdwZNP) – Unity-based casino game with 200+ slot themes, animations & assets.  
 - 🌦️ [**Tiempo Severo**](https://github.com/R-bjorn/Weather-Application) – Real-time weather update app for Puerto Rico & Dominican Republic.
+- 🧮 [**Pi Digital Simulator**](https://github.com/R-bjorn/What-is-PI) - Interactive simulator for digital Pi approximations and visualizations; great for teaching/visual demos.
+- 🐍 [**Google Foobar Challenge**](https://github.com/R-bjorn/FooBar-Google) — My public writeups and solutions for select Foobar tasks (algorithms, optimization, puzzles).  
 
 ## 🛠️ Tech Stack  
 
