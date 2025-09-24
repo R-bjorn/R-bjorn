@@ -1,16 +1,38 @@
-# Hello | Hola | Bonjour | Namaste 👋
+# 👨‍💻 Ravi Trivedi aka *RBjorn* 
+## Full Stack Engineer | Indie Game Enthusiast | Freelance Software Developer
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://github.com/user-attachments/assets/b818a4ff-6b02-4380-b6ea-9d54e7c46077" width="400" height="230">
 
-### About me
 
-- 🤵 I’m **_R-bjorn_**
-- 👀 Exploring new technologies, Developing software solutions, Creating varios games, web designs and quick hacks.
-- :video_game: Fun Fact : Games provide a 23% gain over traditional learning
-- 📫 How to reach me : ravidtrivedi111@gmail.com
-- :globe_with_meridians: Checkout my Portfolio : https://r-bjorn.github.io/RBjorn-Portfolio/
-<!-- - :globe_with_meridians: Github Skyline 2021 : https://skyline.github.com/R-bjorn/2021 -->
 
+### 👋 About Me  
+- 🚀 Full-Stack Engineer & Game Developer with 5+ years experience.  
+- 🎮 Building games in Unity & web apps with React, TypeScript, GraphQL.  
+- 🛠 Skilled in event-driven backends, CI/CD pipelines, and scalable design.  
+- 🌍 Personal: [**Portfolio**](https://r-bjorn.github.io/RBjorn-Portfolio/)  | Freelance : [**RBjorn Designs**](https://r-bjorn.github.io/RBjorn-Designs/)
+- 📬 Reach me: **ravidtrivedi111@gmail.com**
+- 🎥 Game Videos: [**RBjorn Games**](https://www.youtube.com/@rbjornDesigns)
+
+## 🚀 Featured Projects  
+
+- 🧙‍♂️ [**Wizard's Gambit**](https://store.steampowered.com/app/3755740/Wizards_Gambit/) – Multiplayer fantasy board game using Unity Netcode & Cloud Save.  
+- 🎰 [**Mystique Casino**](https://youtu.be/lkhplv9ozII?si=OPOjrcaElRWdwZNP) – Unity-based casino game with 200+ slot themes, animations & assets.  
+- 🌦️ [**Tiempo Severo**](https://github.com/R-bjorn/Weather-Application) – Real-time weather update app for Puerto Rico & Dominican Republic.
+
+## 🛠️ Tech Stack  
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+
+**Frameworks & Tools:**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 
 <!-- --------------------------- -->
 ## Technical Skills 
