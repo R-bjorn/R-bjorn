@@ -1,7 +1,8 @@
 # 👨‍💻 Ravi Trivedi aka *RBjorn* 
 ## Full Stack Engineer | Indie Game Enthusiast | Freelance Software Developer
 
-<img align='right' src="https://github.com/user-attachments/assets/b818a4ff-6b02-4380-b6ea-9d54e7c46077" width="400" height="230">
+<img align='right' src="https://github.com/user-attachments/assets/aed158ed-81ee-4448-8ff5-a34f0508588b" width="400" height="300">
+
 
 
 
