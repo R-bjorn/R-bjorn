@@ -44,7 +44,7 @@
 
 ---------------------------
 
-<img alt="R-Bjorn's Top Languages Used" src="https://github-readme-stats-r-bjorn.vercel.app/api/top-langs/?username=r-bjorn&layout=normal&langs_count=10&hide=shaderlab,hlsl,perl,mathematica,scss" />
+<img alt="R-Bjorn's Top Languages Used" src="https://github-readme-stats-r-bjorn.vercel.app/api/top-langs/?username=r-bjorn&layout=compact&langs_count=10&hide=shaderlab,hlsl,perl,mathematica,scss" />
 
 ---------------------------
 
